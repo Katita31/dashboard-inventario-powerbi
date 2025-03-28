@@ -31,24 +31,6 @@ Panel de Control de Inventario
 ✔️ **Stock de seguridad optimizado** para reducir riesgos de quiebres de stock  
 ✔️ **Identificación de productos de mayor valor**: Impresoras y Laptops  
 
-## 📌 Cómo contribuir
-Si deseas mejorar este proyecto, ¡tu ayuda es bienvenida! 🚀
-
-1. Haz un *fork* del repositorio.
-2. Crea una rama con tu feature:  
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-3. Haz commit de tus cambios:  
-   ```bash
-   git commit -m 'Añade nueva funcionalidad'
-   ```
-4. Haz *push* a la rama:  
-   ```bash
-   git push origin feature/nueva-funcionalidad
-   ```
-5. Abre un *Pull Request*.
-
 ## 📩 Contacto
 📍 **Santiago, Chile**  
 📧 **kattyacontreras.v@gmail.com**  
