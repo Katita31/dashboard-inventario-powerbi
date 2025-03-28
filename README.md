@@ -25,19 +25,7 @@ Este proyecto utiliza Power BI y DAX para analizar la gestión de inventario de 
 | `Rotación` | Ventas Anuales / Inventario Promedio | Eficiencia |
 | `Stock Muerto` | Sin movimiento > 180 días | Capital inmovilizado |
 
-## 🛠️ Arquitectura Técnica
-```mermaid
-graph TD
-    A[ERP] --> B{Power BI}
-    B --> C[Modelos Predictivos]
-    B --> D[Reglas de Negocio]
-    C --> E[Alertas Proactivas]
-
-📈 Parámetros de Tiempo de Entrega
-Tiempo de entrega habitual del proveedor = 10
-Tiempo de entrega con retraso = 15
-
-💡 Insights Clave Extraídos
+##💡 Insights Clave Extraídos
 
 ✔️ Reducción de stock de $45.8M debido a alta demanda
 ✔️ Ajuste negativo de -284 unidades, indicando posible merma
