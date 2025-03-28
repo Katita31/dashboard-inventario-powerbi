@@ -7,6 +7,8 @@ Este proyecto utiliza **Power BI** y **DAX** para analizar la gestión de invent
 - 📄 **Medidas DAX** implementadas para análisis de stock
 - 📜 **Dataset** de Entradas y Salidas de Productos
 
+Panel de Control de Inventario 
+
 <img width="601" alt="Dashboard Inventario Power Bi" src="https://github.com/user-attachments/assets/c62c5fbe-091d-4fe7-9549-682638ee18c2" />
 
 
